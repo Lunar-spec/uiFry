@@ -23,6 +23,10 @@ body {
   font-weight: 500;
 }
 
+html {
+  scroll-behavior: smooth
+}
+
 @layer utilities {
   .flex-center {
     @apply flex justify-center items-center;

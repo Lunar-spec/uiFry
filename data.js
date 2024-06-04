@@ -6,7 +6,7 @@ const data = {
             {
                 "text": "Get started",
                 "icon": "/assets/svgs/arrow-right.svg",
-                "link": "#features"
+                "link": "#banner"
             },
             {
                 "text": "Watch video",
@@ -112,6 +112,10 @@ const data = {
                 "headline": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
             }
         ]
+    },
+    "banner": {
+        "headline": "Ready To Get Started?",
+        "subHead": "Risus Habitant Leo Egestas Mauris Diam Eget Morbi Tempus Vulputate.",
     },
     "footer": {
         "links": {
