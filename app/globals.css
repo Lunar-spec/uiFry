@@ -20,6 +20,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-weight: 500;
 }
 
 @layer utilities {
@@ -34,4 +35,23 @@ body {
   .button-black {
     @apply bg-black text-white rounded-[4px];
   }
+}
+
+
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background: hsl(0, 0%, 0%);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #ff5555;
+  border-radius: 20px;
+}
+
+*::-webkit-scrollbar-corner {
+  background-color: hsl(0, 0%, 0%);
 }

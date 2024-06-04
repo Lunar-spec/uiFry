@@ -1,4 +1,4 @@
-{
+const data = {
     "hero": {
         "headline": "Make the best financial decisions",
         "subHead": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
@@ -169,9 +169,12 @@
                 }
             ]
         },
-        "newletter": {
+        "newsletter": {
             "headline": "Newsletter",
             "subHead": "Stay up to date"
-        }
+        },
+        "copyright": "Copyright 2022 Uifry.com All Rights Reserved"
     }
 }
+
+export default data;
