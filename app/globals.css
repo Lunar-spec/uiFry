@@ -30,4 +30,8 @@ body {
   .flex-between {
     @apply flex justify-between items-center;
   }
+
+  .button-black {
+    @apply bg-black text-white rounded-[4px];
+  }
 }
