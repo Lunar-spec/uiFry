@@ -18,4 +18,4 @@ Create a responsive landing page for a mobile application using HTML and CSS, wi
 
 ## Deployed link
 
-[Deployed here](https://github.com/Lunar-spec/uiFry)
+[Deployed here](https://ui-fry-lunar.vercel.app/)
